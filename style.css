@@ -1,0 +1,22 @@
+.body_background 
+{
+    background-position:top;
+    background-size:cover;
+	background-image:url("481414.jpeg");
+	/* background-color:rgb(34, 80, 139);  */
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-color:forestgreen; 
+}
+
+
+#hd3{
+	display: inline-block;
+	color: red;
+	background-color: aliceblue;
+	font-family: fantasy;
+}
+
